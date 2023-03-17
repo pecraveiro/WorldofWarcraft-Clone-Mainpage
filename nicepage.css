@@ -13,7 +13,7 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  cursor: url('/images/world-of-warcraft-cursor.png'); /* Cursor do Mouse do World of Warcraft */
+  cursor: url('world-of-warcraft-cursor.png'); /* Cursor do Mouse do World of Warcraft */
 }
 
 body {
