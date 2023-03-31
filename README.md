@@ -2,12 +2,13 @@
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
-- [Imagem](#-Imagem)
+- [Print](#-Print)
 - [Video](#-Video)
 - [Tecnologias](#-Tecnologias)
 - [Projeto](#-Projeto)
 
-## 🖼️ Imagem
+## 🖼️ Print
+### Segue o "full screen print" monstrando a página completa:
 
 <div align="center">
 
