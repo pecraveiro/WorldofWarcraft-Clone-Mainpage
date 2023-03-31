@@ -2,12 +2,12 @@
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
-- [Imagens](#-imagens)
-- [Vídeo](#-vídeo)
+- [Imagem](#-Imagem)
+- [Video](#-Video)
 - [Tecnologias](#-Tecnologias)
 - [Projeto](#-Projeto)
 
-## Imagens
+## Imagens 🖼️
 
 <div align="center">
 
@@ -17,7 +17,11 @@
 
 </div>
 
-## Vídeo
+---
+
+## Vídeo 📸
+### Segue o vídeo monstrando a responsividade do projeto:
+- Música utilizada no vídeo <a href ="https://www.youtube.com/watch?v=qqfMAf3IFE0">Youtube</a>
 
 <div align="center">
 
@@ -26,6 +30,8 @@ https://user-images.githubusercontent.com/79882049/229042735-9f8dbd5d-e6d7-4a0f-
 
 
 </div>
+
+---
 
 ## 📑 Sobre
 
