@@ -7,7 +7,7 @@
 - [Tecnologias](#-Tecnologias)
 - [Projeto](#-Projeto)
 
-## Imagens 🖼️
+## 🖼️ Imagem
 
 <div align="center">
 
@@ -19,9 +19,9 @@
 
 ---
 
-## Vídeo 📸
+## 📸 Video
 ### Segue o vídeo monstrando a responsividade do projeto:
-- Música utilizada no vídeo <a href ="https://www.youtube.com/watch?v=qqfMAf3IFE0">Youtube</a>
+- Música utilizada no vídeo <a href ="https://www.youtube.com/watch?v=qqfMAf3IFE0">(Youtube)</a>
 
 <div align="center">
 
